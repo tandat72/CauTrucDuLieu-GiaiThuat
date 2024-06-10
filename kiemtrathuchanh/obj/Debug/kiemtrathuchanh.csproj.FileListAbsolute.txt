@@ -1,0 +1,6 @@
+D:\020101058\kiemtrathuchanh\bin\Debug\kiemtrathuchanh.exe.config
+D:\020101058\kiemtrathuchanh\bin\Debug\kiemtrathuchanh.exe
+D:\020101058\kiemtrathuchanh\bin\Debug\kiemtrathuchanh.pdb
+D:\020101058\kiemtrathuchanh\obj\Debug\kiemtrathuchanh.csprojResolveAssemblyReference.cache
+D:\020101058\kiemtrathuchanh\obj\Debug\kiemtrathuchanh.exe
+D:\020101058\kiemtrathuchanh\obj\Debug\kiemtrathuchanh.pdb
